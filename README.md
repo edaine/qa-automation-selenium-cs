@@ -1,6 +1,3 @@
-# qa-automation-selenium-cs
-GMail Test with Selenium and C#
-
 # Project Assessment:
 The provided repository contains an incomplete automated test for email sending functionality via Gmail.
 
